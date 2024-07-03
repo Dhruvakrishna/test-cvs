@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Images</string>
+
+    <string name="tv_width_height"><b>Width:</b> %1$dpx \t|\t <b>Height:</b> %2$dpx</string>
+    <string name="tv_published">Published Date:\n%1$s</string>
+    <string name="tv_author">Author:\n%1$s</string>
+</resources>
